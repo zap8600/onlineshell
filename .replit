@@ -1,2 +1,2 @@
 language = "bash"
-run = ""
+run = "~/onlineshell/blt/bin/bash --login"
